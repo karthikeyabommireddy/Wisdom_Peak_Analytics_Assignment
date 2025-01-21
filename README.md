@@ -48,7 +48,7 @@ npm install
 To run the project locally, execute:
 ```bash
 npm start
-
+```
 The app will be available at [http://localhost:3000](http://localhost:3000).
 
 ### **Modules Installed**
