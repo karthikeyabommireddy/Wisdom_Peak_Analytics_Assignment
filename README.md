@@ -72,7 +72,7 @@ Here’s a list of all the major modules used in this project:
 5. **React Context API**: Used for global state management (no installation required).
 
 ## **Folder Structure**
-
+```bash
 src/
 ├── components/
 │   ├── CustomButton.js   // Button component for user actions
