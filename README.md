@@ -51,7 +51,7 @@ npm start
 
 The app will be available at [http://localhost:3000](http://localhost:3000).
 
-## **Modules Installed**
+### **Modules Installed**
 
 Here’s a list of all the major modules used in this project:
 
